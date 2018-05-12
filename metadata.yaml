@@ -1,0 +1,29 @@
+_repo: What-a-Young-Husband-Ought-to-Know_33960
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stall, Sylvanus
+    birthdate: 1847
+    deathdate: 1915
+    gutenberg_agent_id: '35803'
+    url: http://www.gutenberg.org/2009/agents/35803
+description: ''
+gutenberg_issued: '2010-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33960'
+  lccn: 06002869
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sexual ethics'
+- !lcsh 'Sex instruction for men'
+- !lcc 'HQ'
+- !lcsh 'Sexual health'
+title: What a Young Husband Ought to Know
+url: http://www.gutenberg.org/ebooks/33960
